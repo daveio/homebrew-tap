@@ -1,0 +1,3 @@
+Naming/FileName:
+  Exclude:
+    - "Casks/vue-designer.rb"
