@@ -20,13 +20,13 @@ lint:
   enabled:
     - actionlint@1.7.7
     - brakeman@5.4.0
-    - checkov@3.2.372
+    - checkov@3.2.382
     - git-diff-check
     - markdownlint@0.44.0
-    - prettier@3.5.1
+    - prettier@3.5.3
     - rubocop@1.39.0
-    - semgrep@1.109.0
-    - trufflehog@3.88.12
+    - semgrep@1.111.0
+    - trufflehog@3.88.15
     - yamllint@1.35.1
 actions:
   enabled:
