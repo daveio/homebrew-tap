@@ -18,12 +18,12 @@ lint:
   enabled:
     - actionlint@1.7.8
     - brakeman@5.4.0
-    - checkov@3.2.499
+    - checkov@3.2.500
     - git-diff-check
     - markdownlint@0.47.0
     - prettier@3.8.1
     - rubocop@1.39.0
-    - semgrep@1.149.0
+    - semgrep@1.151.0
     - trufflehog@3.90.12
     - yamllint@1.38.0
 actions:
